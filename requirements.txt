@@ -1,0 +1,8 @@
+networkx
+matplotlib
+pandas
+btrees
+zope.interface
+zope.proxy
+zope.deferredimport
+persistent
